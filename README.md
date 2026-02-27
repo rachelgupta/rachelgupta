@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachel Gupta</h1>
+<h1 align="center">Hi 👋, I'm Raachel Gupta</h1>
 <h3 align="center">A passionate programmer and developer</h3>
 
 - 🔭 I’m currently working on **NodeJS and ReactJS projects**
